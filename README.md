@@ -1,27 +1,9 @@
-### Hi there 👋
 
-<!--
-**FrancXPT/FrancXPT** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
-<h2 align="center"> Hi, I'm FrancXPT 👋 <br/> </h2> 
-
-<p align="center"><img width=50% src="https://wompampsupport.azureedge.net/fetchimage?siteId=7575&v=2&jpgQuality=100&width=700&url=https%3A%2F%2Fi.kym-cdn.com%2Fentries%2Ficons%2Ffacebook%2F000%2F021%2F807%2Fig9OoyenpxqdCQyABmOQBZDI0duHk2QZZmWg2Hxd4ro.jpg"></p>
-
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=FrancXPT)](https://github.com/FrancXPT/github-readme-stats)-->
 
 <p align="center"> <samp>Hi, My name is FrancXPT. I am a Software Developper. I want to be at the bleeding edge of technology. 📚📈🔬, and I'm also a competitive programmer 🤩 🎈. In my repos you'll find projects created using 
   
+[![FrancXPT's github stats](https://github-readme-stats.vercel.app/api?username=FrancXPT&count_private=true&include_all_commits=true&show_icons=true&theme=vue-dark)](https://github.com/FrancXPT/github-readme-stats)
   
 ## Tech Stack :computer:
 
