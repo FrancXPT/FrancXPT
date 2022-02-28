@@ -30,6 +30,7 @@ ____
 <a href="https://ma.linkedin.com/in/achraf-benbamoula-271407197"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
 <a href="https://instagram.com/achrafbamoula"><img src="https://img.shields.io/badge/instagram-%23E4405F.svg?&style=for-the-badge&logo=instagram&logoColor=white"/></a>
 <a href="https://francxpt.github.io"><img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
+<img src="https://github-profile-trophy.vercel.app/?username=FrancXPT&theme=flat&column=7" alt="logo" height="160" align="center" style="margin: auto; margin-bottom: 20px;" />
 </p>
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
