@@ -28,7 +28,12 @@
 ____
 | <a href="https://github.com/FrancXPT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancXPT&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs,prs,issues" alt="FrancXPT's github stats" /></a> | <a href="https://github.com/FrancXPT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancXPT&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
+<h3 align="center"> Some of my work 😎 </h3>
+    
+| <a href="https://github.com/FrancXPT/NewsApp"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francxpt&repo=NewsApp" /></a> | <a href="https://github.com/FrancXPT/Pinger"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francxpt&repo=Pinger" /></a>  | <a href="https://github.com/FrancXPT/nginx-ui"><img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Francxpt&repo=nginx-ui" /></a>  |
+| ------- | --- | --- |
 
+    
 <h3 align="center"> Other Accounts 📫 </h3>
 <br />
 <p align="center">
