@@ -28,7 +28,7 @@
 
 #### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> How about some stats ?
 ____
-| <a href="https://github.com/FrancXPT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancXPT&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true&hide=contribs,prs,issues" alt="FrancXPT's github stats" /></a> | <a href="https://github.com/FrancXPT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancXPT&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/FrancXPT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=FrancXPT&show_icons=true&include_all_commits=true&count_private=true&theme=buefy&hide_border=true" alt="FrancXPT's github stats" /></a> | <a href="https://github.com/FrancXPT/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrancXPT&count_private=true&layout=compact&theme=buefy&hide_border=true&hide=html,css" /></a> |
 | ------------- | ------------- |
 <h3 align="center"> Some of my work 😎 </h3>
     
