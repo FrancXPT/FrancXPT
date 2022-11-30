@@ -45,7 +45,7 @@ ____
 </p>
 
 <p align="center">
-
+![Snake animation](https://github.com/FrancXPT/FrancXPT/blob/output/github-contribution-grid-snake.svg)
 ⭐️ [FrancXPT](https://github.com/FrancXPT)
 
 </p>
