@@ -44,8 +44,7 @@ ____
 <a href="https://francxpt.github.io"><img src="https://img.shields.io/badge/Website-blue?&style=for-the-badge&logo=google-chrome&logoColor=white"/></a>
 </p>
 
-<p align="center">
 ![Snake animation](https://github.com/FrancXPT/FrancXPT/blob/output/github-contribution-grid-snake.svg)
+    
 ⭐️ [FrancXPT](https://github.com/FrancXPT)
 
-</p>
